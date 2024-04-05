@@ -3,17 +3,17 @@
     {
       "id": 1,
       "name": "Braslav",
-      "time": 10
+      "image": "beautiful-landscape.jpg"
     },
     {
       "id": 2,
       "name": "Mir",
-      "time": 3
+      "image": "beautiful-landscape.jpg"
     },
     {
       "id": 3,
       "name": "Hesvizh",
-      "time": 8
+      "image": "beautiful-landscape.jpg"
     }
   ],
   "companions": [
