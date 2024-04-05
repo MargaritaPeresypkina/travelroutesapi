@@ -2,17 +2,20 @@
   "routes": [
     {
       "id": 1,
-      "name": "Braslav",
-      "image": "beautiful-landscape.jpg"
+      "name": "Браславские озера",
+      "description": "Голубоглазая Беларусь",
+      "image": "../../assets/beautiful-landscape.jpg"
     },
     {
       "id": 2,
-      "name": "Mir",
-      "image": "beautiful-landscape.jpg"
+      "name": "Мирский замок",
+      "description": "Удивительно сохранивший замок веков.",
+      "image": "../../assets/beautiful-landscape.jpg"
     },
     {
       "id": 3,
-      "name": "Hesvizh",
+      "name": "Несвижский замок",
+      "description": "Удивительно сохранивший комплекс веков.",
       "image": "beautiful-landscape.jpg"
     }
   ],
