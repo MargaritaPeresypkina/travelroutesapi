@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Браславские озера",
       "description": "Голубоглазая Беларусь",
-      "image": "../../assets/beautiful-landscape.jpg"
+      "image": "https://raw.githubusercontent.com/your-username/travelroutesapi/master/beautiful-landscape.jpg"
     },
     {
       "id": 2,
