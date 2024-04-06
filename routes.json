@@ -10,13 +10,13 @@
       "id": 2,
       "name": "Мирский замок",
       "description": "Удивительно сохранивший замок веков.",
-      "image": "../../assets/beautiful-landscape.jpg"
+      "image": "https://raw.githubusercontent.com/MargaritaPeresypkina/travelroutesapi/master/beautiful-landscape.jpg"
     },
     {
       "id": 3,
       "name": "Несвижский замок",
       "description": "Удивительно сохранивший комплекс веков.",
-      "image": "./beautiful-landscape.jpg"
+      "image": "https://raw.githubusercontent.com/MargaritaPeresypkina/travelroutesapi/master/beautiful-landscape.jpg"
     }
   ],
   "companions": [
